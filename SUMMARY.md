@@ -4,8 +4,6 @@
 
 * [Onboard 구성하기](onboard/README.md)
 
-* [Android App개발하기](android/README.md)
-
 * [iOS App개발하기](iOS/README.md)
 	* [카메라 앱 개발하기](iOS/Camera/README.md)
 	* [MapView와 Waypoint 앱 개발하기](iOS/Waypoint/README.md)
